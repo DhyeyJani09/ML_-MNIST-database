@@ -20,7 +20,7 @@ For the program to execute correctly without file path errors, the raw, uncompre
 
 Ensure your folder looks exactly like this, with no sub-folders containing the dataset:
 
-Assignment 1.ipynb (The main Jupyter Notebook)
+ML_MNIST-database.ipynb (The main Jupyter Notebook)
 
 train-images.idx3-ubyte (Training Images)
 
@@ -35,9 +35,9 @@ t10k-labels.idx1-ubyte (Testing Labels)
 How to Run the Program
 Open Jupyter Notebook or Jupyter Lab in your chosen environment (e.g., VS Code).
 
-Navigate to the directory containing the Assignment 1.ipynb file and the four dataset files.
+Navigate to the directory containing the ML_MNIST-database.ipynb file and the four dataset files.
 
-Open Assignment 1.ipynb.
+Open ML_MNIST-database.ipynb.
 
 Run the notebook sequentially from top to bottom by selecting Kernel > Restart & Run All (or running each cell individually using Shift + Enter).
 
